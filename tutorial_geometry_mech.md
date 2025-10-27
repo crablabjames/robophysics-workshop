@@ -5,7 +5,9 @@ nav_order: 3
 
 # Geometry Mechanics Basics
 
-This document provides an introduction to **geometry mechanics**, the mathematical framework for describing locomotion via shape-space cycles and constraints on body motion.
+This document provides an introduction to **geometry mechanics**, the mathematical framework for describing locomotion via shape-space and optimization on geometric gait.
+
+Slides made by** Baxi Chong**
 
 ---
 
