@@ -1,12 +1,17 @@
 title: "Robophysics Workshop"
 description: "Hands-on locomotion, mechanics, and robophysical experiment design"
-theme: just-the-docs
+
+# Use remote_theme instead of theme:
+remote_theme: just-the-docs/just-the-docs
 
 url: "https://crablabjames.github.io"
 baseurl: "/robophysics-workshop"
 
 nav_enabled: true
 search_enabled: true
+
+plugins:
+  - jekyll-remote-theme
 
 aux_links:
   "Crab Lab @ Georgia Tech":
