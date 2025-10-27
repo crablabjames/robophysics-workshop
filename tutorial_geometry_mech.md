@@ -1,6 +1,6 @@
 ---
-title: Geometry Mechanics Basics
-nav_order: 3
+title: Modeling: Geometry Mechanics Basics
+nav_order: 9
 ---
 
 # Geometry Mechanics Basics
