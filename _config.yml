@@ -1,0 +1,14 @@
+title: "Robophysics Workshop"
+description: "Hands-on locomotion, mechanics, and robophysical experiment design"
+theme: just-the-docs
+
+url: "https://crablabjames.github.io"
+baseurl: "/robophysics-workshop"
+
+nav_enabled: true
+search_enabled: true
+
+aux_links:
+  "Crab Lab @ Georgia Tech":
+    - "https://crablab.gatech.edu/"
+aux_links_new_tab: true
