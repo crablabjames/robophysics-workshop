@@ -1,15 +1,16 @@
 ---
-title: Robophysics Bootcamp Slides
+title: Tutorial: Techniquesfor building robots
 nav_order: 3
 ---
 
-# Robophysics Bootcamp Slides
+# Tutorial: Techniquesfor building robots
 
 These slides summarize the **Robophysics Bootcamp (Georgia Tech, July 2025)** — covering:
 - Arduino basics and servo control  
 - Mechanical design of the 3-link swimmer  
 - Modeling workflow and experimental setup  
-- Day-by-day progress milestones  
+- Day-by-day progress milestones (suggested)  
+- Made by **Madison Hales**
 
 ---
 
@@ -32,7 +33,6 @@ If the PDF doesn’t appear above, you can
 
 - You can zoom or scroll within the embedded viewer.  
 - On mobile, opening the file directly in a new tab is often clearer.  
-- If you update the slides later, just re-upload a new PDF to the `files/` folder with the **same filename** (`Robophysics Bootcamp Slides.pdf`).
 
 ---
 
