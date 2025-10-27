@@ -15,7 +15,7 @@ nav_order: 1
          controls
          style="width:80%; max-width:600px; border:1px solid #ccc; border-radius:10px;">
   </video>
-  <div style="font-size:0.9rem; margin-top:8px;">3-Link Swimmer Demonstration</div>
+  <div style="font-size:0.9rem; margin-top:8px;">swimmers</div>
 </div>
 
 ---
