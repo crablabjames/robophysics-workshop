@@ -11,7 +11,6 @@ nav_order: 1
     Your browser does not support the video tag.
   </video>
   <div style="font-size:0.9rem; margin-top:8px; color:#555;">
-    3-Link Swimmer Demonstration (looping preview)
   </div>
 </div>
 
