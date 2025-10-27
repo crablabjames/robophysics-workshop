@@ -1,0 +1,17 @@
+---
+title: Gallery
+parent: 2025 Robophysics Workshop
+nav_order: 3
+---
+
+# Gallery
+
+A collection of highlights from the **Robophysics Bootcamp 2025**.
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap:12px; margin-top:20px;">
+  <img src="../files/gallery_photo1.jpg" style="width:100%; border-radius:8px; border:1px solid #ccc;">
+  <img src="../files/gallery_photo2.jpg" style="width:100%; border-radius:8px; border:1px solid #ccc;">
+  <img src="../files/gallery_photo3.jpg" style="width:100%; border-radius:8px; border:1px solid #ccc;">
+</div>
+
+_Add more photos to the `/files/` folder and link them above once available._
