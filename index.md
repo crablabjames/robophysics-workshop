@@ -2,8 +2,7 @@
 title: Home
 nav_order: 1
 ---
----
-## Demo Video
+
 
 <div style="text-align:center; margin-top:20px;">
   <video autoplay muted loop playsinline
@@ -16,8 +15,6 @@ nav_order: 1
   </div>
 </div>
 
-
----
 # Robophysics Workshop
 
 This site walks you through building, controlling, and understanding a simple 3-link swimmer robot.
