@@ -1,5 +1,5 @@
 ---
-title: "📆 2025 Robophysics Workshop"
+title: "📆 2025 ROBOPHYSICS WORKSHOP"
 nav_order: 99
 has_children: true
 ---
