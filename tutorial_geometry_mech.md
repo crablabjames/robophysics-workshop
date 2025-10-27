@@ -7,7 +7,7 @@ nav_order: 9
 
 This document provides an introduction to **geometry mechanics**, the mathematical framework for describing locomotion via shape-space and optimization on geometric gait.
 
-Slides made by** Baxi Chong**
+Slides made by **Baxi Chong**
 
 ---
 
