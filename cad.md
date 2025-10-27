@@ -16,7 +16,7 @@ This page hosts the mechanical designs for the **3-link robophysical swimmer**, 
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-<model-viewer src="files/sta_leg_8.STL"
+<model-viewer src="files/sta_leg_8.glb"
               camera-controls
               auto-rotate
               style="width:100%; max-width:600px; height:400px; background-color:#f8f8f8; border:1px solid #ccc; border-radius:8px; margin-top:16px;">
