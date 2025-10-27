@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Techniquesfor building robots
+title: Tutorial: Techniques for building robots
 nav_order: 3
 ---
 
