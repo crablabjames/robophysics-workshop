@@ -59,15 +59,7 @@ You can open these directly in **SolidWorks 2022+**, or convert them to STEP/IGE
 | Leg 5° | PLA | 20% | 0.16 mm | None | Curve facing up |
 | Leg 8° | PLA | 20% | 0.16 mm | None | Curve facing up |
 
----
 
-## 🔩 Assembly Notes (coming soon)
-
-We’ll add:
-- Servo horn orientation  
-- Joint spacing between segments  
-- Fastener specs (M3 / M4)  
-- Waterproof sealing method  
 
 ---
 
