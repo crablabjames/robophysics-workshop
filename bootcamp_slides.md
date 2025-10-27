@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Techniques for building robots"
+title: "Techniques for building robots"
 nav_order: 7
 ---
 # Tutorial: Techniques for building robots
