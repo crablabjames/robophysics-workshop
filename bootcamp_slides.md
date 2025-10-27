@@ -1,8 +1,7 @@
 ---
-title: Tutorial: Techniques for building robots
-nav_order: 3
+title: "Tutorial: Techniques for building robots"
+nav_order: 7
 ---
-
 # Tutorial: Techniques for building robots
 
 These slides summarize the **Robophysics Bootcamp (Georgia Tech, July 2025)** — covering:
