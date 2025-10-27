@@ -9,32 +9,34 @@ This example demonstrates how to oscillate a servo-driven joint for the **3-link
 Upload this sketch to your Arduino board using the Arduino IDE to generate the basic oscillatory motion used in the bootcamp demos.
 
 ---
+## 💻 Example Code
 
-## 💻 Source Code
-
+```
+cpp
 #include <Servo.h>
 
-Servo servo1; // create servo object
-int pos = 0; // servo position in degrees
-int delayTime = 10; // ms delay between steps (lower = faster motion)
+Servo servo1;        // create servo object
+int pos = 0;         // servo position in degrees
+int delayTime = 10;  // ms delay between steps (lower = faster motion)
 
 void setup() {
-servo1.attach(9); // attach servo to digital pin 9
+  servo1.attach(9);  // attach servo to digital pin 9
 }
 
 void loop() {
-// sweep from 0° to 60°
-for (pos = 0; pos <= 60; pos += 1) {
-servo1.write(pos);
-delay(delayTime);
-}
+  // sweep from 0° to 60°
+  for (pos = 0; pos <= 60; pos += 1) {
+    servo1.write(pos);
+    delay(delayTime);
+  }
 
-// sweep back from 60° to 0°
-for (pos = 60; pos >= 0; pos -= 1) {
-servo1.write(pos);
-delay(delayTime);
+  // sweep back from 60° to 0°
+  for (pos = 60; pos >= 0; pos -= 1) {
+    servo1.write(pos);
+    delay(delayTime);
+  }
 }
-}
+```
 
 
 ---
