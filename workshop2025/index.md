@@ -1,6 +1,6 @@
 ---
 title: 2025 Robophysics Workshop
-nav_order: 6
+nav_order: 99
 has_children: true
 ---
 
