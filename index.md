@@ -2,8 +2,24 @@
 title: Home
 nav_order: 1
 ---
+---
 
-# 3-Link Robophysics Workshop
+## Demo Video
+
+<div style="text-align:center; margin-top:16px;">
+  <video src="files/demo1.mp4"
+         autoplay
+         muted
+         loop
+         playsinline
+         controls
+         style="width:80%; max-width:600px; border:1px solid #ccc; border-radius:10px;">
+  </video>
+  <div style="font-size:0.9rem; margin-top:8px;">3-Link Swimmer Demonstration</div>
+</div>
+
+---
+# Robophysics Workshop
 
 This site walks you through building, controlling, and understanding a simple 3-link swimmer robot.
 
