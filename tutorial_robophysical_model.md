@@ -5,6 +5,17 @@ nav_order: 2
 
 # Build Your First Robophysical Model
 
+<div style="text-align:center; margin-top:20px; margin-bottom:32px;">
+  <video autoplay muted loop playsinline
+         style="width:100%; max-width:900px; border-radius:12px; border:1px solid #ccc; box-shadow:0 3px 10px rgba(0,0,0,0.2);">
+    <source src="files/robo_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <div style="font-size:0.9rem; color:#555; margin-top:8px;">
+    Robophysical models; from left to right: mudskipper, centipede, surface-swim MILR, 3-link magic swimmer, 3-link sand-swimmer, MILR in clutter
+  </div>
+</div>
+
 This short guide helps you set up the essential software and resources for constructing and testing your own **3-link robophysical swimmer**.
 
 ---
