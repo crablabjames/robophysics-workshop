@@ -1,5 +1,5 @@
 ---
-title: Modeling: Geometry Mechanics Basics
+title: "Modeling: Geometry Mechanics Basics"
 nav_order: 9
 ---
 
