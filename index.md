@@ -3,20 +3,19 @@ title: Home
 nav_order: 1
 ---
 ---
-
 ## Demo Video
 
-<div style="text-align:center; margin-top:16px;">
-  <video src="files/demo1.mp4"
-         autoplay
-         muted
-         loop
-         playsinline
-         controls
-         style="width:80%; max-width:600px; border:1px solid #ccc; border-radius:10px;">
+<div style="text-align:center; margin-top:20px;">
+  <video autoplay muted loop playsinline
+         style="width:80%; max-width:600px; border-radius:12px; border:1px solid #ddd; box-shadow:0 2px 10px rgba(0,0,0,0.1);">
+    <source src="files/demo1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
   </video>
-  <div style="font-size:0.9rem; margin-top:8px;">swimmers</div>
+  <div style="font-size:0.9rem; margin-top:8px; color:#555;">
+    3-Link Swimmer Demonstration (looping preview)
+  </div>
 </div>
+
 
 ---
 # Robophysics Workshop
