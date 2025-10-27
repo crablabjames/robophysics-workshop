@@ -1,6 +1,6 @@
 ---
 title: Gallery
-parent: 2025 Robophysics Workshop
+parent: "📆 2025 ROBOPHYSICS WORKSHOP"
 nav_order: 3
 ---
 
