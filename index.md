@@ -48,5 +48,5 @@ Short explanations of core robophysics papers, with PDFs and copy-paste citation
 ---
 
 ## Contact / credit
-This material is being developed in the Crab Lab (robophysics / locomotion) at Georgia Tech.  
+This material is being developed in the Crab Lab at Georgia Tech.  
 More about the lab: https://crablab.gatech.edu/
