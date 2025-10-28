@@ -27,12 +27,6 @@ We call that approach **robophysics**: using simple robots to answer physics / b
 
 ---
 
-## Why the 3-link swimmer?
-- It’s the smallest “animal-like” body that can swim by changing shape.
-- You can drive it with servos and an Arduino.
-- You can model it with really simple math (quasi-static, low inertia, frictional or viscous worlds).
-- You can measure what it actually does in the lab.
-
 This is the same platform used in our Robophysics Bootcamp (Georgia Tech, July 14–16, 2025).:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}
 
 ---
@@ -45,10 +39,10 @@ How to wire the Arduino, blink an LED, control a servo, and assemble the 3-link 
 Why changing joint angles along a cycle can move the robot forward, even with no wheels.
 
 **Experiment protocol**  
-How to put the robot in a simple arena, record video with your phone, track motion, and plot displacement vs. time.
+How to put the robot in a simple arena, record video with your phone, track motion, and plot displacement vs. time (TODO).
 
 **Reading list**  
-Short explanations of core robophysics papers, with PDFs and copy-paste citation blocks.
+Short explanations of core robophysics papers, with PDFs and copy-paste citation blocks (TODO).
 
 
 ---
