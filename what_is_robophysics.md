@@ -1,9 +1,9 @@
 ---
-title: "What is Robophysics?"
+title: "🐍 What is Robophysics?"
 nav_order: 1.5
 ---
 
-# What is Robophysics? 
+# What is Robophysics?
 
 <div style="text-align:center; margin-top:20px; margin-bottom:32px;">
   <video autoplay muted loop playsinline
@@ -14,7 +14,7 @@ nav_order: 1.5
 </div>
 
 <div style="text-align:center; margin-top:20px;">
-  <iframe src="https://iopscience.iop.org/article/10.1088/0034-4885/79/11/110001/pdf"
+  <iframe src="files/robophysicsReview.pdf"
           width="100%"
           height="800px"
           style="border:1px solid #ccc; border-radius:8px;">
