@@ -11,7 +11,11 @@ nav_order: 1.5
     <source src="files/robo_video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+  <div style="font-size:0.9rem; color:#555; margin-top:8px;">
+    Robophysical models; from left to right: mudskipper, centipede, surface-swim MILR, 3-link magic swimmer, 3-link sand-swimmer, MILR in clutter
+  </div>
 </div>
+
 
 <div style="text-align:center; margin-top:20px;">
   <iframe src="files/robophysicsReview.pdf"
